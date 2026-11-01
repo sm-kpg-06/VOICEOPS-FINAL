@@ -1,0 +1,30 @@
+{
+  "total_files": 2,
+  "successful": 2,
+  "failed": 0,
+  "live_gnani": true,
+  "records": [
+    {
+      "filename": "tv_damage_escalation.wav",
+      "transcription": "",
+      "response_text": "Sorry, I didn't catch that. Could you say it again?",
+      "audio_reply": "/Users/karpagamshan/Karpagam/VOICEOPS_IIT_GEN_AI/github/sample_outputs/batch_audio_results/tv_damage_escalation_reply.wav",
+      "retrieved_sections": [],
+      "tool_calls": [],
+      "status": "empty_transcription_recovered",
+      "stt_status": "live_gnani_stt",
+      "tts_status": "live_gnani_tts"
+    },
+    {
+      "filename": "wallet_refund_inquiry.wav",
+      "transcription": "",
+      "response_text": "Sorry, I didn't catch that. Could you say it again?",
+      "audio_reply": "/Users/karpagamshan/Karpagam/VOICEOPS_IIT_GEN_AI/github/sample_outputs/batch_audio_results/wallet_refund_inquiry_reply.wav",
+      "retrieved_sections": [],
+      "tool_calls": [],
+      "status": "empty_transcription_recovered",
+      "stt_status": "live_gnani_stt",
+      "tts_status": "live_gnani_tts"
+    }
+  ]
+}

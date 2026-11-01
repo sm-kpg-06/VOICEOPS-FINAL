@@ -1,0 +1,14 @@
+.env
+env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.venv/
+venv/
+*.wav
+*.mp3
+*.zip
+*.pdf.bak
+

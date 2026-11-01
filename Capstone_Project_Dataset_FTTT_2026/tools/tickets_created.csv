@@ -1,0 +1,110 @@
+ticket_id,created_at,order_id,intent,reason,summary
+TKT3821d3f3a32c49d0a2fb7de747e1b9cb,2026-10-23T22:29:32,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKTa2661fb72cf04835a013c9993c65a3a4,2026-10-23T22:29:50,89782837,damage_claim,high_value_damage,"Damage report on order 89782837 exceeding ₹10,000 threshold. Escalated to Priority Resolution team."
+TKTcc1336f5e0b04ddea721c377eaef171a,2026-10-23T23:07:01,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT28ace37929304037ba00f4871d41f094,2026-10-23T23:09:07,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT86a6dfc579dc4876b1a543f33eb90f6d,2026-10-24T12:45:24,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKTa3f93fbb574a49c68695970fe75996b6,2026-10-24T12:58:05,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT6d18a8e16a244a118390a5735cc91440,2026-10-24T13:44:56,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT66daf8f3e8b549c1b906ffe7867d7bce,2026-10-25T08:58:04,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKTd6b88e4b4f2a4dd7aa4af7bfdf07d8cc,2026-10-25T10:56:16,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT309aecebfc8e451e8d260d09ffa75cb0,2026-10-25T10:57:51,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT790769142a964677a819d28a1dc176ad,2026-10-25T11:00:35,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT8200837114894c9e85f1f5ca27baa0c1,2026-10-25T11:03:48,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKT2e8e8db081124cfa833be06a49b5daa3,2026-10-25T11:03:49,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKTf3ca8a367b494dae93ddcd8392f14cd3,2026-10-25T11:03:49,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKT57b564f6c4b3455c95a70b3bf9327bea,2026-10-25T11:03:49,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKT257c5813d4ab4bfa84ce7b9887f1a4c7,2026-10-25T11:03:49,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKT4c3425585e8948e1943e52450469c903,2026-10-25T11:44:45,69520867,human_handoff,human_requested,Customer requested human escalation: this is ridiculous i want to speak to a human supervisor
+TKT0451ee33e0bc4ea0b51f8a6db98410a9,2026-10-25T14:14:52,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT524299f20e2a4356ae6974887f355d0a,2026-10-25T14:28:44,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKTcfa96f794d8045dda5db79925181923d,2026-10-25T14:30:27,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT31e34e4dccee4e338cf161e624affa0c,2026-10-25T14:36:45,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKTacba79f5e17049aca3ea39bdc43134fc,2026-10-25T14:46:06,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT9d92428ab7f34e20b79f2573ce0983e7,2026-10-25T14:56:33,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT103e3b3dbc5842458110b0e1a2c08d3f,2026-10-25T15:17:58,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT6ec3f85a16524dd1a7f866a2dbfe6c98,2026-10-25T15:25:24,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKTc602e5c7035f457295056aefed72ce1a,2026-10-25T15:32:25,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT3411fc8ecf1040c3a593e9d30e56fad8,2026-10-25T15:50:01,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT7904f06641ed44f2b9ff84771642e418,2026-10-25T16:04:33,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT9b86ce19f21f4398872614a1423e8664,2026-10-25T16:08:56,inquiry,damage_claim,high_value_damage,Customer reports damaged Kestrel Book 14 Laptop with a crack. Priority review required.
+TKTe22e1375bbe6417090bd2b2c3e092bea,2026-10-25T16:09:10,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT8c9139b4a67b445e9a062d6c20ca102e,2026-10-25T16:11:11,inquiry,damage_claim,high_value_damage,Customer reports damaged Kestrel Book 14 Laptop with a crack. Priority review required.
+TKTf890d00a90ca41b6831d2c4491ea50af,2026-10-25T16:13:00,inquiry,fraud_report,unauthorized_order,Customer reports unauthorized order on their account that they never placed. Immediate security investigation required.
+TKTb5b20b74a6bc4b7da4c35dd87ac2265a,2026-10-25T16:13:14,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKTbe981927ac194456bfee4bdf48400130,2026-10-25T16:15:03,inquiry,fraud_report,unauthorized_order,Customer reports unauthorized order on their account that they never placed. Immediate security investigation required.
+TKT84c4494e049f41c491fb62c2b2e8e9af,2026-10-25T16:19:21,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT3e9fbaf8995b429ea72d75ac8e9b1c54,2026-10-25T16:31:41,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT4d82404b8f194144aff599f853f0b565,2026-10-25T16:36:17,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT60717db28d7c4badaac2f3a2713203c4,2026-10-25T16:42:44,89782837,human_handoff,human_requested,Customer requested human escalation: connect me to a supervisor right now
+TKTc05f7e4273954306810f6234d1329790,2026-10-25T17:09:02,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKT726f9def7e684dcda1ee7fd8062bd405,2026-10-25T17:09:03,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKTcc727203fe4c4350a3ce4b10bb5e8d0c,2026-10-25T17:09:03,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKTfaac9a7564474c479f4a9d02da6999e7,2026-10-25T17:09:03,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKT4e40a8bc4e6148799148c94695a2051c,2026-10-25T17:09:03,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKT1fdf4e0aa7954a9c8d3fbf916bf677a9,2026-10-25T17:10:42,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKT894eeef3857d436b99a58cce74287ccd,2026-10-25T17:10:42,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKT8e756f7d51f24308ac5cf72a782c9fab,2026-10-25T17:10:42,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKT65529a047deb403299829ba1d0946655,2026-10-25T17:10:42,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKTfd81a93a45254f4dadc71f0a5c2d87e3,2026-10-25T17:10:42,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKT22f4e940d6db40a0bb51f87f2d80cf4b,2026-10-25T18:06:53,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKTb16a5281cbac4f31a54423372cfdc82e,2026-10-25T18:06:53,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKT09f6c7af8ad24d5793b0b7fbeb254678,2026-10-25T18:06:53,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKTd9f38b37919046c0b9e0d8a2b0080056,2026-10-25T18:06:53,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKTb6a5e308f08d46b5b36d2e98ffc1b64e,2026-10-25T18:06:53,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKT588b4e83082a48f69052a152aaece364,2026-10-25T18:08:55,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKT0c9b65016fae4c7faeb2aceea5e0c058,2026-10-25T18:08:55,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKT94c1df7404ed416e987cd85f7c158f80,2026-10-25T18:08:55,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKT3cbf61877dae436f9936ecef7478708e,2026-10-25T18:08:55,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKT1ea5cd3f53804279803e726d38af3429,2026-10-25T18:08:55,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKT7f5573400a2040708df11b0c399cc0a0,2026-10-25T18:08:55,16640894,refund_status,delayed_refund,Delayed refund enquiry for order 16640894. Reference number RRN 315633825001.
+TKT807eed5c44ce4bffb5e09971cdbe46b9,2026-10-25T18:16:23,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKTe5025f13007041f5afe4f7db7becd648,2026-10-25T18:16:23,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKTf4739e7a4daf45e794bea234ade7e8e8,2026-10-25T18:16:23,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKT452d05b18a2d40f599f650dedf11d994,2026-10-25T18:16:23,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKTdb7035dac70f43d0b219eebc24e31e4b,2026-10-25T18:16:23,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKT244a349440634d309b91561ec2f9896c,2026-10-25T18:16:23,16640894,refund_status,delayed_refund,Delayed refund enquiry for order 16640894. Reference number RRN 315633825001.
+TKTea91227373db419d96d54b4bbc31d7eb,2026-10-25T18:20:54,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKT41984864dc74435d8c2b76c5a22631b5,2026-10-25T18:20:54,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKT4f606539d0d041e38dd50ddd3774ea70,2026-10-25T18:20:54,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKT41a9f6264bbd4ff598d39cc664087690,2026-10-25T18:20:54,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKTb78d44c4d3704f0dbe82c866bef00c5d,2026-10-25T18:20:54,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKT1f93359158644f70aa7d478dd1802728,2026-10-25T18:20:55,16640894,refund_status,delayed_refund,Delayed refund enquiry for order 16640894. Reference number RRN 315633825001.
+TKT7cc589be62c84ec7b2d4a463ebe7445f,2026-10-25T19:33:57,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKT71baa2c834d34c39a4a22faa0251e2ad,2026-10-25T19:33:57,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKTe57a8d54720f41a99465daa0cb52d25c,2026-10-25T19:33:57,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKTadb3e43b4d204a77a414d2aaab778c56,2026-10-25T19:33:57,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKTe4603b7151f84b4ca7136ca66f4edd82,2026-10-25T19:33:57,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKT722a0e79459c45e5a7c4d75b992df481,2026-10-25T19:33:58,16640894,refund_status,delayed_refund,Delayed refund enquiry for order 16640894. Reference number RRN 315633825001.
+TKTd2f10669276640ef93013fdccc556ac8,2026-10-25T19:35:25,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKTbc04663637494b479a6930c268c1ae68,2026-10-25T19:42:33,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKTce71f286952b4fee906f66ce727c1936,2026-10-25T19:42:33,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKT91a9c85ee6d94511bb8fc860061ab824,2026-10-25T19:42:33,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKT727eff395c1e418bbf0bf7bada0f2ef8,2026-10-25T19:42:33,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKT3f5cfc73ca424c059a5b3f3994a4069c,2026-10-25T19:42:33,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKTba3a9cd0c5d345ec952c472699820e78,2026-10-25T19:42:34,16640894,refund_status,delayed_refund,Delayed refund enquiry for order 16640894. Reference number RRN 315633825001.
+TKT7f2aa68b4a174e1fa7afc5e9052ae28c,2026-10-26T14:36:45,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT16f07a22d3404214abb92da5c1993b07,2026-10-26T14:38:51,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKTccecd5a0679f4d00a3f44c3ad4d47ffe,2026-10-26T14:38:51,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKT707e7d3bc88540b09eb45b48e1d5b36d,2026-10-26T14:38:51,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKTf3fad9cf4e2c4e0d825c88a5c9072de8,2026-10-26T14:38:51,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKT8b07577709524cb9bf9d306fddeb941c,2026-10-26T14:38:51,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKTe1f0fad1b440455a8d5bca583dd6c87a,2026-10-26T14:38:51,16640894,refund_status,delayed_refund,Delayed refund enquiry for order 16640894. Reference number RRN 315633825001.
+TKT8bbc3828ebcf43f980fdf3344e70deb2,2026-10-26T16:05:38,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT65e0144a8bdb4010aa3cd49ededc655d,2026-10-26T16:20:16,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT2bd8c18baa084bd08da537842c2c3ec3,2026-10-26T16:24:57,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT4422c6af496740349f988e9490a2b92d,2026-11-01T10:07:33,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKTc3f752630a0346edb2c5fa42f1c1d5cb,2026-11-01T10:19:50,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKT4867d3b54ccf41b89162102052e287d2,2026-11-01T10:49:46,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKTd7a53614e55d4878bab6b42a17b23284,2026-11-01T10:49:46,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKT749e4e16313545a3ac6706e36a829cec,2026-11-01T10:49:46,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKTe05d815d7d8f4dd7854f764d04d0c8c4,2026-11-01T10:49:46,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKT449343c4c5bf4b179687df3d8fc691cc,2026-11-01T10:49:46,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKT0f69e834aaa540b09cb662746724a678,2026-11-01T10:49:46,16640894,refund_status,delayed_refund,Delayed refund enquiry for order 16640894. Reference number RRN 315633825001.
+TKT521e4799374d40fbb51d78d0ed4fc792,2026-11-01T10:55:17,89782837,,high_value_damage,High value damaged item review required by priority resolution team.
+TKTd1536ff9adf742a880497303b8f3593c,2026-11-01T10:55:34,89782837,damage_claim,high_value_damage,"Verified customer reports damaged high-value order 89782837 (value > ₹10,000). Priority review required."
+TKTe82ac311724940e5955a0042167ab3c4,2026-11-01T10:55:34,37113676,human_handoff,human_requested,Customer requested human escalation: क्या मैं किसी इंसान से बात कर सकती हूँ?
+TKT6bfc8f1962034034be461af0cf716a30,2026-11-01T10:55:34,66492475,human_handoff,human_requested,"Customer requested human escalation: Actually, can I just speak to a person?"
+TKTb14e8d5a32394a48ac9e80ceea1074d1,2026-11-01T10:55:34,45011817,human_handoff,repeat_contact,Customer requested human escalation: Main is hafte teesri baar call kar rahi hoon isi baare mein.
+TKT322cdfc23c504df9b6b21a9131723337,2026-11-01T10:55:34,48196636,human_handoff,repeat_contact,Customer requested human escalation: This is the third time I'm calling about this in a week.
+TKT97ac93629b9d4015b51492c804042399,2026-11-01T10:55:34,16640894,refund_status,delayed_refund,Delayed refund enquiry for order 16640894. Reference number RRN 315633825001.
